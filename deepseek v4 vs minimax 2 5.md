@@ -1,7 +1,3 @@
-Here’s a **current comparison of DeepSeek V4 and MiniMax M2.5** based on available model specs, architecture details, and benchmark positioning in the AI model landscape:
-
----
-
 ## 🧠 **Model Focus and Positioning**
 
 ### **DeepSeek V4**
@@ -87,11 +83,9 @@ Here’s a **current comparison of DeepSeek V4 and MiniMax M2.5** based on avail
 
 ---
 
-[1]: https://overchat.ai/models/deepseek-4?utm_source=chatgpt.com "Introducing DeepSeek 4 - The Best Open-Source AI Model"
-[2]: https://vertu.com/lifestyle/deepseek-v4-what-can-the-new-architecture-actually-do/?srsltid=AfmBOor_8RvRNmrvs1oPNi9hMlvtocLBSdysWXCitrVrts8GjOhlKuVO&utm_source=chatgpt.com "DeepSeek V4 Guide: MODEL1 Architecture & 1.8x ..."
-[3]: https://www.nxcode.io/resources/news/deepseek-v4-engram-memory-1t-model-guide-2026?utm_source=chatgpt.com "DeepSeek V4: Everything We Know About the 1T- ..."
-[4]: https://www.verdent.ai/guides/what-is-deepseek-v4?utm_source=chatgpt.com "DeepSeek V4: Facts & Benchmarks"
-[5]: https://www.minimax.io/news/minimax-m25?utm_source=chatgpt.com "MiniMax M2.5: Built for Real-World Productivity."
-[6]: https://www.datacamp.com/blog/mini-max-m2-5?utm_source=chatgpt.com "MiniMax M2.5 Guide: How It Works, Use Cases & More"
-[7]: https://blog.galaxy.ai/model/minimax-m2-5?utm_source=chatgpt.com "MiniMax M2.5 Model Specs, Costs & Benchmarks ..."
-[8]: https://www.verdent.ai/guides
+[1Introducing DeepSeek 4 - The Best Open-Source AI Model](https://overchat.ai/models/deepseek-4?utm_source=chatgpt.com "Introducing DeepSeek 4 - The Best Open-Source AI Model")
+[2vertucom](https://vertu.com/lifestyle/deepseek-v4-what-can-the-new-architecture-actually-do/?srsltid=AfmBOor_8RvRNmrvs1oPNi9hMlvtocLBSdysWXCitrVrts8GjOhlKuVO&utm_source=chatgpt.com "DeepSeek V4 Guide: MODEL1 Architecture & 1.8x ...")
+[3nxcode](https://www.nxcode.io/resources/news/deepseek-v4-engram-memory-1t-model-guide-2026?utm_source=chatgpt.com "DeepSeek V4: Everything We Know About the 1T- ...")
+[4verdent ai deepseek v4](https://www.verdent.ai/guides/what-is-deepseek-v4?utm_source=chatgpt.com "DeepSeek V4: Facts & Benchmarks")
+
+[8 verdent ai ](https://www.verdent.ai/guides)
