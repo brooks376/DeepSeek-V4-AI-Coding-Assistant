@@ -39,7 +39,7 @@ Insider reports mention more structured, organized responses and stronger reason
 
 Although detailed architecture disclosures are limited, V4 is tied (in leaks) to new training techniques and architectural innovations that improve efficiency and internal pattern recognition compared with V3’s foundations.
 
-## Why choose [DeepSeek](https://deepseek.ai/) V4?
+## Why choose [DeepSeek](https://deepseek.com/) V4?
 Performance and cost: Internal and third‑party reports suggest V4 targets top‑tier coding performance while offering significantly lower hardware and inference costs than many US premium models.
 
 Long‑context & repo‑level work: If you work with large documents or entire codebases, V4’s million‑token‑scale context and multi‑file reasoning make it attractive for serious engineering and agent use cases.
